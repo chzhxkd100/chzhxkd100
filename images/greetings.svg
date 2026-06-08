@@ -6,30 +6,40 @@
       font-weight: 700;
       fill: #8a8a8a;
       opacity: 0;
-      animation: fade-loop 30s infinite ease-in-out;
+      animation: fade-loop 37.5s infinite ease-in-out;
     }
     
     .g1 { animation-delay: 0s; }
-    .g2 { animation-delay: 2s; }
-    .g3 { animation-delay: 4s; }
-    .g4 { animation-delay: 6s; }
-    .g5 { animation-delay: 8s; }
-    .g6 { animation-delay: 10s; }
-    .g7 { animation-delay: 12s; }
-    .g8 { animation-delay: 14s; }
-    .g9 { animation-delay: 16s; }
-    .g10 { animation-delay: 18s; }
-    .g11 { animation-delay: 20s; }
-    .g12 { animation-delay: 22s; }
-    .g13 { animation-delay: 24s; }
-    .g14 { animation-delay: 26s; }
-    .g15 { animation-delay: 28s; }
+    .g2 { animation-delay: 1.5s; }
+    .g3 { animation-delay: 3s; }
+    .g4 { animation-delay: 4.5s; }
+    .g5 { animation-delay: 6s; }
+    .g6 { animation-delay: 7.5s; }
+    .g7 { animation-delay: 9s; }
+    .g8 { animation-delay: 10.5s; }
+    .g9 { animation-delay: 12s; }
+    .g10 { animation-delay: 13.5s; }
+    .g11 { animation-delay: 15s; }
+    .g12 { animation-delay: 16.5s; }
+    .g13 { animation-delay: 18s; }
+    .g14 { animation-delay: 19.5s; }
+    .g15 { animation-delay: 21s; }
+    .g16 { animation-delay: 22.5s; }
+    .g17 { animation-delay: 24s; }
+    .g18 { animation-delay: 25.5s; }
+    .g19 { animation-delay: 27s; }
+    .g20 { animation-delay: 28.5s; }
+    .g21 { animation-delay: 30s; }
+    .g22 { animation-delay: 31.5s; }
+    .g23 { animation-delay: 33s; }
+    .g24 { animation-delay: 34.5s; }
+    .g25 { animation-delay: 36s; }
 
     @keyframes fade-loop {
       0% { opacity: 0; transform: translateY(6px); }
-      1.5% { opacity: 1; transform: translateY(0); }
-      5.5% { opacity: 1; transform: translateY(0); }
-      7% { opacity: 0; transform: translateY(-6px); }
+      1% { opacity: 1; transform: translateY(0); }
+      3.3% { opacity: 1; transform: translateY(0); }
+      3.7% { opacity: 0; transform: translateY(-6px); }
       100% { opacity: 0; }
     }
   </style>
@@ -44,10 +54,20 @@
     <text x="50%" y="50%" class="greeting g8">Hola.</text>
     <text x="50%" y="50%" class="greeting g9">Hallo.</text>
     <text x="50%" y="50%" class="greeting g10">Ciao.</text>
-    <text x="50%" y="50%" class="greeting g11">Привет.</text>
-    <text x="50%" y="50%" class="greeting g12">Xin chào.</text>
-    <text x="50%" y="50%" class="greeting g13">สวัสดี.</text>
-    <text x="50%" y="50%" class="greeting g14">Γεια σας.</text>
-    <text x="50%" y="50%" class="greeting g15">שלום.</text>
+    <text x="50%" y="50%" class="greeting g11">Hei.</text> <!-- Finland (Linux) -->
+    <text x="50%" y="50%" class="greeting g12">Привет.</text>
+    <text x="50%" y="50%" class="greeting g13">Xin chào.</text>
+    <text x="50%" y="50%" class="greeting g14">สวัสดี.</text>
+    <text x="50%" y="50%" class="greeting g15">Γεια σας.</text>
+    <text x="50%" y="50%" class="greeting g16">שלום.</text> <!-- Israel -->
+    <text x="50%" y="50%" class="greeting g17">Hej.</text> <!-- Sweden -->
+    <text x="50%" y="50%" class="greeting g18">Hallo.</text> <!-- Netherlands (Python) -->
+    <text x="50%" y="50%" class="greeting g19">Cześć.</text> <!-- Poland -->
+    <text x="50%" y="50%" class="greeting g20">Привіт.</text> <!-- Ukraine -->
+    <text x="50%" y="50%" class="greeting g21">Salut.</text> <!-- Romania -->
+    <text x="50%" y="50%" class="greeting g22">Olá.</text>
+    <text x="50%" y="50%" class="greeting g23">Merhaba.</text>
+    <text x="50%" y="50%" class="greeting g24">Halo.</text>
+    <text x="50%" y="50%" class="greeting g25">Сайн уу.</text>
   </g>
 </svg>
