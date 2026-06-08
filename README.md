@@ -13,7 +13,7 @@
     <td align="center" valign="top" width="340">
       <h3>godot</h3>
       <a href="https://github.com/chzhxkd100/rhythm">
-        <img src="./images/rhythm_hover_embedded.svg" width="310" alt="rhythm" />
+        <img src="./images/rhythm_gondola.png" width="310" alt="rhythm" />
       </a>
     </td>
   </tr>
