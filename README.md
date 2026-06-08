@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./images/greetings.svg?v=2" alt="greetings" width="400" />
+<img src="./images/greetings.svg?v=3" alt="greetings" width="400" />
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
