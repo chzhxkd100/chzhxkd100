@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./images/title.svg?v=2" alt="chzhxkd100" width="400" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=450&height=70&lines=chzhxkd100" alt="Typing SVG" />
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
