@@ -7,7 +7,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/chzhxkd100/rhythm">
-  <img src="./images/rhythm.png?v=2" width="300" alt="rhythm" />
+  <img src="./images/rhythm_gondola.png" width="300" alt="rhythm" />
 </a>
 
 <br><br>
