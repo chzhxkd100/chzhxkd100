@@ -5,13 +5,13 @@
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center" valign="top" width="340">
-      <h3>darkbrood</h3>
+      <h3>darkbrood - community </h3>
       <a href="https://github.com/chzhxkd100/darkbrood">
         <img src="./images/darkbrood_cropped.png" width="310" alt="darkbrood" />
       </a>
     </td>
     <td align="center" valign="top" width="340">
-      <h3>godot</h3>
+      <h3>godot - game engine </h3>
       <a href="https://github.com/chzhxkd100/rhythm">
         <img src="./images/rhythm_gondola.png" width="310" alt="rhythm" />
       </a>
