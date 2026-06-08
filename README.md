@@ -2,8 +2,12 @@
 
 # chzhxkd100
 
-[![darkbrood](./images/darkbrood.png)](https://github.com/chzhxkd100/darkbrood)
-
-[![rhythm](./images/rhythm.png)](https://github.com/chzhxkd100/rhythm)
+<a href="https://github.com/chzhxkd100/darkbrood">
+  <img src="./images/darkbrood.png" width="300" alt="darkbrood" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/chzhxkd100/rhythm">
+  <img src="./images/rhythm.png" width="300" alt="rhythm" />
+</a>
 
 </div>
