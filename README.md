@@ -2,17 +2,22 @@
 
 # chzhxkd100
 
-### darkbrood
-<a href="https://github.com/chzhxkd100/darkbrood">
-  <img src="./images/darkbrood_cropped.png" width="400" alt="darkbrood" />
-</a>
-
-<br><br>
-
-### godot
-<a href="https://github.com/chzhxkd100/rhythm">
-  <img src="./images/rhythm_gondola.png" width="400" alt="rhythm" />
-</a>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="top" width="340">
+      <h3>darkbrood</h3>
+      <a href="https://github.com/chzhxkd100/darkbrood">
+        <img src="./images/darkbrood_cropped.png" width="310" alt="darkbrood" />
+      </a>
+    </td>
+    <td align="center" valign="top" width="340">
+      <h3>godot</h3>
+      <a href="https://github.com/chzhxkd100/rhythm">
+        <img src="./images/rhythm_gondola.png" width="310" alt="rhythm" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br><br>
 
