@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=80&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94.;Hello.;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%82;%E4%BD%A0%E5%A5%BD%E3%80%82;Bonjour.;Hola.;Hallo.;Ciao.;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1600&pause=800&color=00F0FF&center=true&vCenter=true&width=600&height=80&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94.;Hello.;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%82;%E4%BD%A0%E5%A5%BD%E3%80%82;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7.;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87.;Bonjour.;Hola.;Hallo.;Ciao.;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82.;Xin+ch%C3%A0o.;%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B5.;%CE%93%CE%B5%CE%B9%CE%B1+%CF%83%CE%B1%CF%82.;%D7%A9%D7%9C%D7%95%D7%9D.;Hej.;Salve.;Ol%C3%A1.;Hei." alt="Typing SVG" />
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
