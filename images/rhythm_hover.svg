@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1127 622" width="100%" height="100%">
+  <style>
+    .card {
+      transition: opacity 0.25s ease-in-out;
+    }
+    .default-card {
+      opacity: 1;
+    }
+    .hover-card {
+      opacity: 0;
+    }
+    svg:hover .default-card {
+      opacity: 0;
+    }
+    svg:hover .hover-card {
+      opacity: 1;
+    }
+  </style>
+  <!-- Default Image -->
+  <image href="rhythm_gondola.png" x="0" y="0" width="1127" height="622" preserveAspectRatio="xMidYMid slice" class="card default-card" />
+  <!-- Hover Image -->
+  <image href="gondolar2.PNG" x="0" y="0" width="1127" height="622" preserveAspectRatio="xMidYMid slice" class="card hover-card" />
+</svg>
