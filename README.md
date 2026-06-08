@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=80&lines=%24+git+push+origin+main;%5Berror%5D+Rejected+%28Non-fast-forward%29+%E2%9D%8C;%EC%96%B4%EB%9D%BC+%EC%99%9C+%EC%95%88+%EB%90%98%EC%A7%80...%3F+%F0%9F%98%B1;%24+ask-ai+%22%EC%9D%B4%EA%B1%B0+%EC%99%9C+%EC%95%88+%EB%8F%BC%3F%22;%F0%9F%A4%96%3A+%EB%A1%9C%EC%BB%AC%EC%97%90+%EC%B6%A9%EB%8F%8C%EC%9D%B4+%EC%9E%88%EB%84%A4%EC%9A%94.+git+pull%EC%9D%84+%EB%A8%BC%EC%A0%80!+%F0%9F%92%A1;chzhxkd100" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3800&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=80&lines=%EC%83%9D%EA%B0%81%EC%9D%B4+%EB%A7%8E%EC%9D%80+%EC%9E%90%EC%9D%98+%EA%B3%A0%EB%87%8C...;%24+think+--depth%3Dinfinite;%24+echo+%24SOLITUDE;%24+git+push+origin+main;%5BFATAL%5D+Rejected.+Connection+lost.;...%EB%98%90+%EC%8B%A4%ED%8C%A8%EC%9D%B8%EA%B0%80.;%24+ask-ai+%22%EC%96%B4%EB%94%94%EC%84%9C%EB%B6%80%ED%84%B0+%EC%9E%98%EB%AA%BB%EB%90%9C+%EA%B1%B8%EA%B9%8C%3F%22;%F0%9F%A4%96%3A+You+chose+this+hell.+Keep+pushing.+%F0%9F%94%AF;%22I+knew+it+was+hell%2C+but+I+walked+in+anyway.%22;chzhxkd100" alt="Typing SVG" />
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
